@@ -35,8 +35,8 @@
 <body>
   <h1>Menggunakan Variable</h1>
   <?php
-    $nim = "312110483";
-    $nama = 'Muhammad Akbar';
+    $nim = "312110245";
+    $nama = 'Raihan Herfiansyah';
     echo "NIM : " . $nim . "<br>";
     echo "Nama : $nama";
   ?>
